@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Objective-C**
 
-- 👨‍💻 All of my projects are available at [www.Amjadoudeh.com](Www.Amjadoudeh.com)
+- 👨‍💻 All of my projects are available at <a href="https://amjadoudeh.com" target="_blank">(Www.Amjadoudeh.com)
 
 - 💬 Ask me about **HTML5 - CSS3 - JavaScript - React.js**
 
