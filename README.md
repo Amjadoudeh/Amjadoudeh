@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **Objective-C**
+- 🤝 I’m looking for help with **Objective-C** / **SwifftUI**
 
 - 👨‍💻 All of my projects are available at www.Amjadoudeh.com
 
