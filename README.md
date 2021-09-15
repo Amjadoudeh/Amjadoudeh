@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **IOS development**
+- 🌱 I’m currently working **IOS development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **Objective-C** / **SwifftUI**
+- 🤝 I’m looking for help with **SwifftUI**
 
 - 👨‍💻 All of my projects are available at www.Amjadoudeh.com
 
