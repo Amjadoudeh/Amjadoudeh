@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at www.Amjadoudeh.com
 
-- 💬 Ask me about **HTML5 - CSS3 - JavaScript - React.js - Python**
+- 💬 Ask me about **HTML5 - CSS3 - JavaScript - React.js - Python - Django**
 
 - 📫 How to reach me **Amjad.oudeh88@gmail.com**
 
