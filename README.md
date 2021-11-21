@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Amjad.oudeh88@gmail.com**
 
-- ⚡ Fun fact **I'm a musician and I have my own band**
+- ⚡ Fun fact **I'm a musician / Guitarist and I have my own band**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
