@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amjad Oudeh</h1>
-<h3 align="center">A passionate Software engineer - IOS Engineer - Fullstack developer - FrontEnd Focus!</h3>
+<h3 align="center">A passionate Software engineer - IOS Engineer @ SoundCloud </h3>
 
 
 
