@@ -7,7 +7,7 @@ A passionate Software engineer who enjoy learning languages, solving problems an
 
 
 
-- 🔭 I’m currently working on SoundCloud 
+- 🔭 I’m currently working for SoundCloud 
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about HTML5 - CSS3 - JavaScript - React.js - Python - Flask - Django 
 - 📫 How to reach me: Amjad.oudeh88@gmail.com 
