@@ -11,7 +11,8 @@ A passionate Software engineer who enjoy learning languages, solving problems an
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about HTML5 - CSS3 - JavaScript - React.js - Python - Flask - Django 
 - 📫 How to reach me: Amjad.oudeh88@gmail.com 
-- 😄 Pronouns: He / Him  
+- 😄 Pronouns: He/Him 
+- :) pronunciation [Am - jad]
 - ⚡ Fun fact: I'm a musician / Guitarist and I have my own band 
 
 
