@@ -8,7 +8,8 @@ in my free time, I enjoy playing, teaching Music, and learning about new technol
 
 
 
-- 🔭 I’m currently working for SoundCloud 
+- 🔭 I’m currently working for SoundCloud
+- 🔭 I build mobile apps with swift programing language in SwiftUI and UIKit frameworks.
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about HTML5 - CSS3 - JavaScript - React.js - Python - Flask - Django 
 - 📫 How to reach me: Amjad.oudeh88@gmail.com 
