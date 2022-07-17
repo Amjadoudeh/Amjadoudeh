@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Amjad Oudeh
-#### iOS Software Engineer @ SoundCloud
+#### iOS Software Engineer @ [SoundCloud](https://soundcloud.com/discover)
 ![1944](https://user-images.githubusercontent.com/74506206/154533251-23e69f95-dece-415e-8446-79112cb8c30f.jpg)
 
 
