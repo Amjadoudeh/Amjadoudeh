@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Amjad Oudeh
 #### iOS Software Engineer - Release manager @ [SoundCloud](https://soundcloud.com/discover)
-![1944](https://user-images.githubusercontent.com/74506206/154533251-23e69f95-dece-415e-8446-79112cb8c30f.jpg)
-
+![sc](https://github.com/Amjadoudeh/Amjadoudeh/assets/74506206/6a04cc7b-51db-449b-a9c6-026ac5c3c133)
 
 A passionate Software engineer who enjoys learning languages, solving problems and building new things!
 I enjoy playing, teaching Music, and learning about new technologies and open-source projects in my free time.
