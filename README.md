@@ -1,21 +1,20 @@
 ### Hi there 👋, I'm Amjad Oudeh
-#### iOS Software Engineer @ [SoundCloud](https://soundcloud.com/discover)
+#### iOS Software Engineer - Release manager @ [SoundCloud](https://soundcloud.com/discover)
 ![1944](https://user-images.githubusercontent.com/74506206/154533251-23e69f95-dece-415e-8446-79112cb8c30f.jpg)
 
 
-A passionate Software engineer who enjoy learning languages, solving problems and building new things!
-in my free time, I enjoy playing, teaching Music, and learning about new technologies and open-source projects.
+A passionate Software engineer who enjoys learning languages, solving problems and building new things!
+I enjoy playing, teaching Music, and learning about new technologies and open-source projects in my free time.
 
 
 
 - 🔭 I’m currently working for SoundCloud
-- 🔭 I build mobile apps using swift programing language in SwiftUI and UIKit frameworks.
-- 👯 I’m looking to collaborate on open source projects 
-- 💬 Ask me about HTML5 - CSS3 - JavaScript - React.js - Python - Flask - Django 
-- 📫 How to reach me: Amjad.oudeh88@gmail.com 
+- 🔭 I build mobile apps using Swift programming language in SwiftUI and UIKit frameworks.
+- 👯 I’m looking to collaborate on open-source projects 
+- 💬 Ask me about HTML5 - CSS3 - JavaScript - React.js - Swift - XCTest - UI Testing
 - 😄 Pronouns: He/Him 
 - ⚡ Pronunciation [Am - jad]
-- ⚡ Fun fact: I'm a musician / Guitarist and I have my own band.
+- ⚡ Fun fact: I'm a musician / Guitarist and have a band.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amjadoudeh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amjad-oudeh-541418167/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amjad.Adam.oudeh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/oudehamjad) <br>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC9dCRbhiNFVDvlpAm39PPRg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.Amjadoudeh.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='SoundCloud' height='50'>](https://soundcloud.com/amjad-oudeh)
